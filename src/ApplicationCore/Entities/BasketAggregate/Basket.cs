@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.eShopWeb.ApplicationCore.Interfaces;
 
 namespace Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate;
-
+//test
 public class Basket : BaseEntity, IAggregateRoot
 {
     public string BuyerId { get; private set; }
