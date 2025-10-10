@@ -74,6 +74,6 @@
     <PackageVersion Include="coverlet.collector" Version="6.0.2" />
   </ItemGroup>
   <ItemGroup>
-    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
   </ItemGroup>
 </Project>
