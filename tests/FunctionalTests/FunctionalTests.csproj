@@ -11,6 +11,7 @@
     <Compile Remove="WebRazorPages\**" />
     <EmbeddedResource Remove="WebRazorPages\**" />
     <None Remove="WebRazorPages\**" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
   </ItemGroup>
 
   <ItemGroup>
